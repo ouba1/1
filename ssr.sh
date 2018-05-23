@@ -7,7 +7,7 @@ export PATH
 #	Description: Install the ShadowsocksR server
 #	Version: 2.0.30
 #	Author: Toyo
-#	Blog: https://doub.io/ss-jc42/
+#	Blog: 
 #=================================================
 
 sh_ver="2.0.30"
